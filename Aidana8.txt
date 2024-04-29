@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+        <title>aidana</title>
+    <style>
+        body {
+            background-color:black;
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>aidana</h1>
+    <img src="aidana.jpeg" alt="aidana">
+</body>
+</html>
